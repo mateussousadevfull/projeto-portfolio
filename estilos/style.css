@@ -58,3 +58,18 @@ nav#menu a:hover {
   background-color: var(--destaque-inverso);
   color: var(--destaque);
 }/*efeito de menu*/
+
+main {
+
+}
+
+section#ficha {
+  background-color:  var(--fundo-card);
+  padding: 20px;
+  border-radius: 8px;
+}
+
+section#ficha img.foto {
+  width: 200px;
+  aspect-ratio: 1/1;
+}
